@@ -3,7 +3,7 @@ apiVersion: apps.openshift.io/v1
 metadata:
   annotations:
     app.openshift.io/vcs-ref: master
-    app.openshift.io/vcs-uri: 'https://github.com/snowjet/quotegen-imagelookup.git'
+    app.openshift.io/vcs-uri: 'https://github.com/kirikae/quotegen-imagelookup.git'
   name: imagelookup
   labels:
     app: imagelookup
